@@ -5,4 +5,4 @@ https://launchpad.net/plank
 
 
 ## Installation
-Download the theme. Unzip and copy the theme to ~/.local/share/plank/theme/ directory.
+Download the theme. Unzip and copy the folder (black-plank-theme-master) to the ~/.local/share/plank/themes/ directory.
